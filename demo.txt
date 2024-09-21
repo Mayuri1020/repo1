@@ -1,0 +1,35 @@
+Java Full Stack
+==================
+Git===>Version Control System
+----- 
+abc.java==>version1
+abc.java===>version2
+abc.java==>version3
+abc.java===>version4
+===================================
+github
+=====================================
+git add abc.txt
+
+git commit -m "first commit done"
+===========================
+Basic Architecture Of Git
+===========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
